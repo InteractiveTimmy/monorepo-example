@@ -1,0 +1,6 @@
+{
+    "name": "@local/sign-in-client",
+    "scripts": {
+        "start": "echo \"hello world from client\""
+    }
+}

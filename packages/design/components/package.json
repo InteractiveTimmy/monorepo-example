@@ -1,0 +1,12 @@
+{
+    "name": "@local/design-components",
+    "main": "./dist/module/index.js",
+    "types": "./dist/types/index.dts",
+    "scripts": {
+        "start": "echo \"we are designing\"",
+        "build": "tsc --declaration --declarationMap --declarationDir ./dist/types --module CommonJS --outDir ./dist/module --jsx react"
+    },
+    "devDependencies": {
+        "typescript": "^5.4.3"
+    }
+}

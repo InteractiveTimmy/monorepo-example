@@ -1,4 +1,7 @@
 {
-  "name": "test-demo",
-  "packageManager": "yarn@4.1.1"
+  "name": "local",
+  "packageManager": "yarn@4.1.1",
+  "workspaces": [
+    "./packages/**/*"
+  ]
 }

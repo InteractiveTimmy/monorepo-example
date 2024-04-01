@@ -1,0 +1,6 @@
+{
+    "name": "@local/identity-service",
+    "scripts": {
+        "start": "echo \"hello world\""
+    }
+}
